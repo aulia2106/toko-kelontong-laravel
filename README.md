@@ -70,32 +70,30 @@ Kondisi stok: 0 berarti Habis, 10 atau kurang berarti Menipis, selain itu Tersed
 
 ## Screenshot
 
-Semua gambar disimpan di folder `ss/`.
-
 ### Dashboard
 
-![Dashboard](ss/dashboard.png)
+![Dashboard](screenshot/dashboardwowok.png)
 
 ### Daftar produk
 
-![Daftar produk](ss/daftar-produk.png)
+![Daftar produk](screenshot/daftar-produk.png)
 
 ### Pencarian produk
 
-![Pencarian produk](ss/pencarian-produk.png)
+![Pencarian produk](screenshot/pencarian-produk.png)
 
 ### Tambah produk
 
-![Tambah produk](ss/tambah-produk.png)
+![Tambah produk](screenshot/tambah-produk.png)
 
 ### Validasi error
 
-![Validasi error](ss/validasi-error.png)
+![Validasi error](screenshot/validasi-error.png)
 
 ### Ubah produk
 
-![Ubah produk](ss/ubah-produk.png)
+![Ubah produk](screenshot/ubah-produk.png)
 
 ### Detail produk
 
-![Detail produk](ss/detail-produk.png)
+![Detail produk](screenshot/detail-produk.png)
