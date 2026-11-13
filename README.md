@@ -51,6 +51,7 @@ Folder ini berisi file aplikasi saja, bukan seluruh framework Laravel. Salin ke 
 | `resources/views/dashboard.blade.php` | Halaman dashboard |
 | `resources/views/products/` | Daftar (`@forelse`), tambah, ubah, detail, dan kolom form bersama (`@csrf`, `@method`, `@error`) |
 | `public/css/style.css` | Tampilan bertema pink |
+| `ss/` | Folder tangkapan layar aplikasi |
 
 ## Fitur dan method Eloquent yang dipakai
 
@@ -66,3 +67,35 @@ Folder ini berisi file aplikasi saja, bukan seluruh framework Laravel. Salin ke 
 | Relasi | `Category::products()` memakai `hasMany`, `Product::category()` memakai `belongsTo` |
 
 Kondisi stok: 0 berarti Habis, 10 atau kurang berarti Menipis, selain itu Tersedia.
+
+## Screenshot
+
+Semua gambar disimpan di folder `ss/`.
+
+### Dashboard
+
+![Dashboard](ss/dashboard.png)
+
+### Daftar produk
+
+![Daftar produk](ss/daftar-produk.png)
+
+### Pencarian produk
+
+![Pencarian produk](ss/pencarian-produk.png)
+
+### Tambah produk
+
+![Tambah produk](ss/tambah-produk.png)
+
+### Validasi error
+
+![Validasi error](ss/validasi-error.png)
+
+### Ubah produk
+
+![Ubah produk](ss/ubah-produk.png)
+
+### Detail produk
+
+![Detail produk](ss/detail-produk.png)
